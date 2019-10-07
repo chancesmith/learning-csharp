@@ -6,8 +6,8 @@ namespace helloworld
     {
         public static void Main(string[] args)
         {
-            var a = "My String";
-            Console.WriteLine(a);
+            var anything = Console.ReadLine();
+            Console.WriteLine(anything);
         }
     }
 }
